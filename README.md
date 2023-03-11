@@ -1,2 +1,2 @@
 # CodeWars
-Python solutions for programming problems in CodeWars
+Python and Shell Script CodeWars solutions.
